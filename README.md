@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on React<br>🌱 I’m currently learning Everything<br>💬 Ask me about DSA, Java, MERN, SQL, CPP<br>⚡ Fun fact If I could live anywhere in the world, it would be Europe
+🔭 I’m currently working on React<br>🌱 I’m currently learning Everything<br>💬 Ask me about DSA, Comptetive Programming, Java, MERN, SQL, CPP<br>⚡ Fun fact If I could live anywhere in the world, it would be Europe
 
 
 ## 🌐 Socials:
