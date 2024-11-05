@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on React<br>🌱 I’m currently learning Everything<br>💬 Ask me about DSA, Comptetive Programming, Java, MERN, SQL, CPP<br>⚡ Fun fact If I could live anywhere in the world, it would be Europe
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vishal.dhaygude.336) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishaldhaygude01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-dhaygude-437577207/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vishaldhaigude0102) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Vishdhaygude01) 
